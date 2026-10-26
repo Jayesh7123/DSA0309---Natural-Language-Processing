@@ -1,0 +1,7 @@
+nltk>=3.9
+scikit-learn>=1.5
+spacy>=3.7
+transformers>=4.45
+sentencepiece>=0.2
+torch
+openai>=1.50
